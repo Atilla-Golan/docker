@@ -7,7 +7,7 @@ Another C code is written to control the server with sending data to the server 
 ## Preparation
 
 clone the github repo!
-bash: git clone https://github.com/embed
+bash: git clone https://github.com/Atilla-Golan/docker.git
 
 Load the Docker image that behaves as server:
 ```
