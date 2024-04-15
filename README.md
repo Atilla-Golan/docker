@@ -5,7 +5,7 @@ This project includes C coding practices and embedded system concepts of Docker 
 ## Preparation
 
 clone the github repo!
-bash: git clone https://github.com/embed
+bash: git clone (https://github.com/Atilla-Golan/docker.git)
 
 Load the Docker image that behaves as server:
 ```
