@@ -56,5 +56,4 @@ The amplitude varies around -5 to 5. The frequency seems to be related to the re
 (every 13 lines of printed value, you can see peak or deep value) which is T=period= 13*100ms =1.3s then f=1/T= 1/1.3 = 0.76Hz.
 
 The data values printed shows the signal seems to be a sinusiod wave.
-# docker
-docker project
+
